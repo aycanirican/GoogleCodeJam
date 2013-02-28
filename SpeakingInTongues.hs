@@ -2,7 +2,7 @@
 -- http://code.google.com/codejam/contest/1460488/dashboard
 --
 -- Aycan iRiCAN
--- aycan@core.gen.tr
+-- iricanaycan@gmail.com
 
 module Main where
 
